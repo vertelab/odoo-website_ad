@@ -10,10 +10,8 @@ Website Adverticements
 
         """,
     'author': 'Vertel AB',
-    'depends': ['website',],
-    'data': [
-        'views/templates.xml',
-    ],
+    'depends': ['website','sale'],
+    'data': ['ad_view.xml',],
     'demo': [ ],
     'installable': True,
     'application': True,

@@ -9,7 +9,7 @@ Website Adverticements
 
 
         """,
-    'author': 'Vertel AB',
+    'author': 'Vertel Sverige AB',
     'depends': ['website','sale'],
     'data': ['ad_view.xml',],
     'demo': [ ],
